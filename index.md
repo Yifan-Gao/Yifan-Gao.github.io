@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Homepage
 
 ## Biography
 I am a second year Ph.D. student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong since 2017, under the supervision of [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). I receive my bachelor degree from School of Electronic and Information Engineering at Beihang University in 2017.
