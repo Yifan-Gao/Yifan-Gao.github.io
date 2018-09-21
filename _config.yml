@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Yifan Gao (高一帆)
+logo: /assets/img/1fan.jpg
+description: Ph.D. student, CSE, CUHK
+research: Text Generation, Natural Language Processing
+social:  <a href="https://github.com/Evan-Gao">Github</a>, <a href="https://www.zhihu.com/people/YifanGao/activities">Zhihu</a>
+email: Email &#58 yifangao95 AT gmail.com
+show_downloads: false
+google_analytics: UA-126219209-1
 theme: jekyll-theme-minimal
