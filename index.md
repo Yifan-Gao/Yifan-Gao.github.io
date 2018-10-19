@@ -8,12 +8,12 @@ I am a second year Ph.D. student in the Department of Computer Science and Engin
 I am currently working on text generation in natural language processing.
 
 ## Working Experiences
-- **May 2018-present**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](http://www.cs.cmu.edu/~lbing) and [Dr. Piji Li](http://lipiji.com).
+- **May 2018-present**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
-- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. _arXiv preprint arXiv:1809.02768 (2018)_. Sep. 2018. [PDF](https://arxiv.org/pdf/1809.02768)
+- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. _arXiv preprint arXiv:1809.02768 (2018)_. Sep. 2018. [PDF](https://arxiv.org/abs/1809.02768)
 
-- Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. _arXiv preprint arXiv:1808.08575 (2018)_. Aug. 2018. [PDF](https://arxiv.org/pdf/1808.08575)
+- Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. _arXiv preprint arXiv:1808.08575 (2018)_. Aug. 2018. [PDF](https://arxiv.org/abs/1808.08575)
 
 - **Yifan Gao**, Lidong Bing, Wang Chen, Jianan Wang, Irwin King, Michael R. Lyu. Difficulty Controllable Question Generation for Reading Comprehension. _arXiv preprint arXiv:1807.03586 (2018)_. Aug, 2018. [PDF](https://arxiv.org/abs/1807.03586)
 
