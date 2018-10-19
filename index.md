@@ -23,3 +23,5 @@ I am currently working on text generation in natural language processing.
 - **August 2013--July 2017** B. Eng. Beihang University, Department of Electronic & Information Engineering
 
 - **September 2016--February 2017** Exchange Student, Technischen Universität Darmstadt, Department of Computer Science
+
+(Last Update: 2018 19 Oct)
