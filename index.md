@@ -8,7 +8,7 @@ I am a second year Ph.D. student in the Department of Computer Science and Engin
 I am currently working on text generation in natural language processing.
 
 ## Working Experiences
-- **May 2018-present**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
+- **May 2018-Sep 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
 - **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. _Proceedings of the 33st AAAI Conference on Artificial Intelligence (AAAI'19)_. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768)
