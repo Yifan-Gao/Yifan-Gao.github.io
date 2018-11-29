@@ -5,17 +5,19 @@ layout: default
 ## Biography
 I am a second year Ph.D. student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong since 2017, under the supervision of [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). I receive my bachelor degree from School of Electronic and Information Engineering at Beihang University in 2017.
 
-I am currently working on text generation in natural language processing.
+I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
 ## Working Experiences
 - **May 2018-Sep 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
-- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. _Proceedings of the 33st AAAI Conference on Artificial Intelligence (AAAI'19)_. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768)
+- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768) [Data](https://github.com/Evan-Gao/Distractor-Generation-RACE)
 
-- Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. _Proceedings of the 33st AAAI Conference on Artificial Intelligence (AAAI'19)_. Jan 2019. [PDF](https://arxiv.org/abs/1808.08575)
+- Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1808.08575)
 
 - **Yifan Gao**, Lidong Bing, Wang Chen, Jianan Wang, Irwin King, Michael R. Lyu. Difficulty Controllable Question Generation for Reading Comprehension. _arXiv preprint arXiv:1807.03586 (2018)_. Aug, 2018. [PDF](https://arxiv.org/abs/1807.03586)
+
+- Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
 
 ## Education
 - **August 2017--Present**, Ph.D. student, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
@@ -24,4 +26,4 @@ I am currently working on text generation in natural language processing.
 
 - **September 2016--February 2017** Exchange Student, Technischen Universität Darmstadt, Department of Computer Science
 
-(Last Update: Nov 1, 2018)
+(Last Update: Nov 29, 2018)
