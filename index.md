@@ -7,7 +7,7 @@ I am a second year Ph.D. student in the Department of Computer Science and Engin
 
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
-## Working Experiences
+## Internships
 - **May 2018-Sep 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
@@ -18,6 +18,10 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 - **Yifan Gao**, Lidong Bing, Wang Chen, Jianan Wang, Irwin King, Michael R. Lyu. Difficulty Controllable Question Generation for Reading Comprehension. _arXiv preprint arXiv:1807.03586 (2018)_. Aug, 2018. [PDF](https://arxiv.org/abs/1807.03586)
 
 - Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
+
+## Professional Activities
+- Reviewer (or Subreviewer): ASONAM(18), AAAI(19), WWW(19)
+- External Reviewer: IJCNN(18), IJCAI(18), EMNLP(18), ICONIP(18), ICLR(19), Information Processing Management
 
 ## Education
 - **August 2017--Present**, Ph.D. student, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
