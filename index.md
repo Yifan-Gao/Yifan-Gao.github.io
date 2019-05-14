@@ -11,11 +11,13 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 - **May 2018-Sep 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Bing Lidong](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
+- **Yifan Gao**, Piji Li, Irwin King, Michael R. Lyu. Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling. **ACL'19**. Aug, 2019.
+
+- **Yifan Gao**, Lidong Bing, Wang Chen, Michael R. Lyu, Irwin King. Difficulty Controllable Question Generation for Reading Comprehension. **IJCAI'19**. Aug, 2019. [PDF](https://arxiv.org/abs/1807.03586)
+
 - **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768) [Data](https://github.com/Evan-Gao/Distractor-Generation-RACE)
 
 - Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1808.08575)
-
-- **Yifan Gao**, Lidong Bing, Wang Chen, Jianan Wang, Irwin King, Michael R. Lyu. Difficulty Controllable Question Generation for Reading Comprehension. _arXiv preprint arXiv:1807.03586 (2018)_. Aug, 2018. [PDF](https://arxiv.org/abs/1807.03586)
 
 - Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
 
@@ -30,4 +32,4 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 
 - **September 2016--February 2017** Exchange Student, Technischen Universität Darmstadt, Department of Computer Science
 
-(Last Update: Nov 29, 2018)
+(Last Update: May 14, 2019)
