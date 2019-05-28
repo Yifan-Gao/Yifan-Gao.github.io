@@ -8,7 +8,7 @@ I am a second year Ph.D. student in the Department of Computer Science and Engin
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
 ## Internships
-- **May 2018-Sep 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
+- **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
 ## Publications & Manuscripts
 - **Yifan Gao**, Piji Li, Irwin King, Michael R. Lyu. Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling. **ACL'19**. Aug, 2019.
