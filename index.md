@@ -7,6 +7,8 @@ I am a Ph.D. student in Department of Computer Science and Engineering at The Ch
 
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
+**Always actively seeking a research intern/visiting student position. Feel free to reach me if you find a match.**
+
 ## Internships
 - **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
 
@@ -22,7 +24,7 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 - Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
 
 ## Professional Activities
-- Reviewer (or Subreviewer): ASONAM(18), AAAI(19), WWW(19), EMNLP(19)
+- Reviewer (or Subreviewer): ASONAM(18), AAAI(19,20), WWW(19), EMNLP(19)
 
 ## Education
 - **August 2017--Present**, Ph.D. student, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
