@@ -31,7 +31,7 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 ## Education
 - **August 2017--Present**, Ph.D. candidate, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
 
-- **August 2013--July 2017**, B. Eng. Beihang University, Department of Electronic & Information Engineering
+- **August 2013--July 2017**, B. Eng., Beihang University, Department of Electronic & Information Engineering
 
 - **Oct 2016--Feb 2017**, Exchange student, Technische Universität Darmstadt, Department of Computer Science
 
