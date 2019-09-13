@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Biography
-I am a Ph.D. student in Department of Computer Science and Engineering at The Chinese University of Hong Kong, under the supervision of [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). I receive my bachelor degree from School of Electronic and Information Engineering at Beihang University in 2017.
+I am a third-year Ph.D. student in the Department of Computer Science and Engineering at The Chinese University of Hong Kong, under the supervision of [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/).
 
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
@@ -26,7 +26,7 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 - Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
 
 ## Professional Activities
-- Reviewer (or Subreviewer): ASONAM(18), AAAI(19,20), EMNLP(19), WWW(19)
+- Reviewer (or Subreviewer): ASONAM(18), AAAI(19,20), EMNLP(19), WWW(19), WSDM(20)
 
 ## Education
 - **August 2017--Present**, Ph.D. candidate, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
