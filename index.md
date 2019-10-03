@@ -7,10 +7,9 @@ I am a third-year Ph.D. student in the Department of Computer Science and Engine
 
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
-**Always actively seeking a research intern/visiting student position. Feel free to reach me if you find a match.**
-
 ## Internships
-- **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Piji Li](http://lipiji.com).
+- **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com).
+- **Oct 2019 - Dec 2019**, Research Intern, Salesforce Research Asia. Mentor: [Shafiq Rayhan Joty](https://raihanjoty.github.io) and [Steven Hoi](https://sites.google.com/view/stevenhoi/home).
 
 ## Publications & Manuscripts
 - Jingjing Li\*, **Yifan Gao**\*, Lidong Bing, Irwin King, Michael R. Lyu. Improving Question Generation With to the Point Context. To appear in **EMNLP'19**. Nov, 2019. (\* indicates equal contribution)
