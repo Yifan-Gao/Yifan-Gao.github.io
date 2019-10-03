@@ -34,4 +34,4 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 
 - **Oct 2016--Feb 2017**, Exchange student, Technische Universität Darmstadt, Department of Computer Science
 
-(Last Update: Aug, 2019)
+(Last Update: Oct, 2019)
