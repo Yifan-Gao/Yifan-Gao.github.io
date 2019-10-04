@@ -9,6 +9,7 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 
 ## Internships
 - **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com).
+
 - **Oct 2019 - Dec 2019**, Research Intern, Salesforce Research Asia. Mentor: [Shafiq Rayhan Joty](https://raihanjoty.github.io) and [Steven Hoi](https://sites.google.com/view/stevenhoi/home).
 
 ## Publications & Manuscripts
