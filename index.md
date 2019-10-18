@@ -8,18 +8,18 @@ I am a third-year Ph.D. student in the Department of Computer Science and Engine
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
 ## Internships
-- **Summer 2018**, Research Intern, NLP Center@Tencent AI Lab. Mentor: [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com).
+- **May 2018 - Aug 2018**, Research Intern, Tencent AI Lab. Shenzhen, China. Mentor: [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com).
 
-- **Oct 2019 - Dec 2019**, Research Intern, Salesforce Research Asia. Mentor: [Shafiq Rayhan Joty](https://raihanjoty.github.io) and [Steven Hoi](https://sites.google.com/view/stevenhoi/home).
+- **Sep 2019 - Dec 2019**, Research Intern, Salesforce Research. Singapore. Mentor: [Shafiq Rayhan Joty](https://raihanjoty.github.io) and [Steven Hoi](https://sites.google.com/view/stevenhoi/home).
 
 ## Publications & Manuscripts
-- Jingjing Li\*, **Yifan Gao**\*, Lidong Bing, Irwin King, Michael R. Lyu. Improving Question Generation With to the Point Context. To appear in **EMNLP'19**. Nov, 2019. (\* indicates equal contribution)
+- Jingjing Li\*, **Yifan Gao**\*, Lidong Bing, Irwin King, Michael R. Lyu. Improving Question Generation With to the Point Context. **EMNLP'19**. Nov, 2019. (\* indicates equal contribution) [PDF](https://arxiv.org/abs/1910.06036)
 
 - **Yifan Gao**, Piji Li, Irwin King, Michael R. Lyu. Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling. **ACL'19**. Aug, 2019. [PDF](https://arxiv.org/abs/1906.06893) [Code](https://github.com/Evan-Gao/conversational-QG)
 
 - **Yifan Gao**, Lidong Bing, Wang Chen, Michael R. Lyu, Irwin King. Difficulty Controllable Question Generation for Reading Comprehension. **IJCAI'19**. Aug, 2019. [PDF](https://arxiv.org/abs/1807.03586)
 
-- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768) [Data](https://github.com/Evan-Gao/Distractor-Generation-RACE)
+- **Yifan Gao**, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu. Generating Distractors for Reading Comprehension Questions from Real Examinations. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1809.02768) [Dataset](https://github.com/Evan-Gao/Distractor-Generation-RACE)
 
 - Wang Chen, **Yifan Gao**, Jiani Zhang, Irwin King, Michael R. Lyu. Title-Guided Encoding for Keyphrase Generation. **AAAI'19**. Jan 2019. [PDF](https://arxiv.org/abs/1808.08575)
 
@@ -35,4 +35,4 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 
 - **Oct 2016--Feb 2017**, Exchange student, Technische Universität Darmstadt, Department of Computer Science
 
-(Last Update: Oct, 2019)
+(Last Update: 10/2019)
