@@ -8,9 +8,10 @@ I am a third-year Ph.D. student in the Department of Computer Science and Engine
 I am currently interested in Text Generation and Dialogue in Natural Language Processing.
 
 ## Internships
-- **May 2018 - Aug 2018**, Research Intern, Tencent AI Lab. Shenzhen, China. Mentor: [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com).
+- **Sep 2019 - Jan 2020**, Research Intern, Salesforce Research. Singapore. Work with [Chien-Sheng Wu](https://jasonwu0731.github.io/), [Shafiq Joty](https://raihanjoty.github.io) and [Steven C.H. Hoi](https://sites.google.com/view/stevenhoi/home) on conversational machine reading.
 
-- **Sep 2019 - Dec 2019**, Research Intern, Salesforce Research. Singapore. Mentor: [Shafiq Rayhan Joty](https://raihanjoty.github.io) and [Steven Hoi](https://sites.google.com/view/stevenhoi/home).
+- **May 2018 - Aug 2018**, Research Intern, Tencent AI Lab. Shenzhen, China. Work with [Lidong Bing](https://lidongbing.github.io/) and [Piji Li](http://lipiji.com) on question generation.
+
 
 ## Publications & Manuscripts
 - Jingjing Li\*, **Yifan Gao**\*, Lidong Bing, Irwin King, Michael R. Lyu. Improving Question Generation With to the Point Context. **EMNLP'19**. Nov, 2019. (\* indicates equal contribution) [PDF](https://arxiv.org/abs/1910.06036)
@@ -26,7 +27,7 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 - Yan Xu, Zhengyang Shen, Xin Zhang, **Yifan Gao**, Shujian Deng, Yipei Wang, Yubo Fan, Eric I-Chao Chang. Learning Multi-level Features For Sensor-based Human Action Recognition. ***Pervasive and Mobile Computing*** 40 (2017): 324-338. [PDF](https://www.sciencedirect.com/science/article/pii/S1574119217301141)
 
 ## Professional Activities
-- Reviewer (or Subreviewer): ASONAM(18), AAAI(19,20), EMNLP(19), WWW(19), WSDM(20)
+- Reviewer (or Subreviewer\*): ASONAM(18), AAAI(19,20), EMNLP(19\*), WWW(19\*), WSDM(20\*), ICML(20)
 
 ## Education
 - **August 2017--Present**, Ph.D. candidate, The Chinese University of Hong Kong, Department of Computer Science & Engineering. Advisors: [Prof. Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/) and [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)
@@ -35,4 +36,4 @@ I am currently interested in Text Generation and Dialogue in Natural Language Pr
 
 - **Oct 2016--Feb 2017**, Exchange student, Technische Universität Darmstadt, Department of Computer Science
 
-(Last Update: 10/2019)
+(Last Update: 12/2019)
