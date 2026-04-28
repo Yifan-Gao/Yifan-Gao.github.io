@@ -37,9 +37,9 @@
       <div class="row">
         <div class="col-sm-9">
           <h1>Yifan Gao </h1>
-          <h4>Senior Applied Scientist and Tech Lead, <a href="https://www.amazon.com/Rufus/b?ie=UTF8&node=121214013011">Rufus LLM @ Amazon</a></h4>
-          <h4><i class="fa fa-home" aria-hidden="true"></i>&nbsp;&nbsp; Palo Alto, CA</h4>
-          <h4><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp; <a href="mailto:yifangao95@gmail.com">Gmail: yifangao95</a></h4>
+          <h4>Senior Applied Scientist, <a href="https://www.amazon.com/Rufus/b?ie=UTF8&node=121214013011">Rufus LLM @ Amazon</a></h4>
+          <h4><i class="fa fa-home" aria-hidden="true"></i>&nbsp;&nbsp; San Francisco Bay Area, CA</h4>
+          <h4><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp; <a href="mailto:yifangao95@gmail.com">Gmail: yifangao95@gmail.com</a></h4>
           <!-- <h4><i class="fa fa-github-alt" aria-hidden="true"></i>&nbsp;&nbsp; <a href="https://github.com/Yifan-Gao">Github: Yifan-Gao</a></h4> -->
           <h4><i class="fa fa-google" aria-hidden="true"></i>&nbsp;&nbsp; <a href="https://scholar.google.com.hk/citations?user=erdMFJwAAAAJ&hl=en">Google Scholar</a></h4>
           <h4><i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/yi-fan-gao/">LinkedIn</a></h4>
@@ -77,11 +77,11 @@
             <ul>
               <li>Focused on <strong>agentic reinforcement learning</strong> for Rufus (global/query-level rubrics, RLVR, agentic search), enabling personalized recommendations, comparisons, and product Q&amp;A. <a href="https://www.aboutamazon.com/news/retail/amazon-rufus-ai-assistant-personalized-shopping-features">[Amazon News]</a></li>
               <li>Led <strong>agent evaluation</strong> for Rufus post-training: worked cross-functionally to translate product requirements into evaluation SOPs, launched human labeling pipelines, and developed an <strong>LLM-as-a-judge</strong> spanning rubric-based, preference-based, and verifiable judges.</li>
-              <li>Worked on <strong>product search agent</strong> to teach Rufus conducting deep research in amazon product space, with RLVR, rubric-based and customer engagement (click/add/purchase) based RL training</li>
+              <!-- <li>Worked on <strong>product search agent</strong> to teach Rufus conducting deep research in amazon product space, with RLVR, rubric-based and customer engagement (click/add/purchase) based RL training</li> -->
               <li>Designed <strong>memory</strong> for context-aware assistance (<strong>static + dynamic memory</strong>) and developed personalized evaluation rubrics aligned to user intent, preferences, and communication style.</li>
               <li>Improved <strong>general agentic capability</strong> through mid-training for function calling [<a href="https://arxiv.org/abs/2502.06589">NAACL 2025</a>] and by initiating MCP-based post-training for diverse tool-use environments.</li>
             </ul>
-            <div><strong>Rufus LLM Pre-training</strong> <span class="pull-right">(2023–Present)</span></div>
+            <div><strong>Rufus LLM Pre-training</strong> </div>
             <ul>
               <li>Led <strong>LLM scaling-law</strong> development for Rufus foundational models, studied architecture and training dynamics, built a capability prediction recipe, and guided pre-training data quality, mixture, and curriculum design. <a href="https://arxiv.org/abs/2410.08527">[TMLR Paper]</a></li>
               <li>Led the <strong>Pre-training Evaluation</strong> suite; defined base-model capability measurements and shopping-critical benchmarks (e.g., <a href="https://arxiv.org/abs/2410.20745">[Shopping MMLU - NeurIPS Paper]</a>, <a href="https://amazon-kddcup24.github.io/">[Amazon KDD Cup]</a>) and established evaluation principles and a customer-behavior benchmark suite to guide behavior-focused pre-training.</li>
@@ -257,6 +257,11 @@
               arXiv 2025. <a href="https://arxiv.org/abs/2502.18915">[arxiv]</a>
             </div>
           </li>
+        </ul>
+        <div style="margin: 10px 0;">
+          <button id="toggle-papers-btn" onclick="togglePapers()" style="background:none;border:1px solid #999;padding:4px 12px;cursor:pointer;border-radius:3px;font-size:14px;">Show all papers</button>
+        </div>
+        <ul id="extra-papers" style="display:none;">
           <li class="publication">
             <div class="publication-title">
               <b>[ArXiv'25] Personaagent: When Large Language Model Agents Meet Personalization at Test Time</b>
@@ -597,6 +602,19 @@
             </div>
           </li>
         </ul>
+        <script>
+          function togglePapers() {
+            var el = document.getElementById('extra-papers');
+            var btn = document.getElementById('toggle-papers-btn');
+            if (el.style.display === 'none') {
+              el.style.display = 'block';
+              btn.textContent = 'Show fewer papers';
+            } else {
+              el.style.display = 'none';
+              btn.textContent = 'Show all papers';
+            }
+          }
+        </script>
       </div>
       <div class="row-fluid content-header text-left">
         <h2><strong>Awards & Honors</strong></h2>
